@@ -25,7 +25,7 @@ public class diffrenceBetweenStringBufferandString {
      We will see that if we are making changes in the object of string buffer i.e obj1 it is also reflected
      in obj2 as we equalized obj2 and obj1 ,as we know String Buffer class is mutable whereas
      if we are making changes in the object of string i.e obj3 it is not reflected in obj4 as String class
-     is immmutable.
+     is immutable.
          */
         System.out.println();
         System.out.println("Output to see have the changes have occured or not:");
